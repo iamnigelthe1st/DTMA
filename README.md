@@ -2,6 +2,9 @@
 
 A comprehensive, interactive web application built with **Next.js 14** and **Tailwind CSS** that helps organizations evaluate their digital transformation maturity across five critical dimensions.
 
+![Assessment Welcome Screen](<img width="1227" height="1276" alt="brave_screenshot_keegan-dtma vercel app" src="https://github.com/user-attachments/assets/a6b4a425-2c4d-454a-8596-036881afdc18" />
+)
+
 ## 🌟 Features
 
 ### Multi-Step Questionnaire
