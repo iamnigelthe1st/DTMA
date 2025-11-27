@@ -2,8 +2,6 @@
 
 A comprehensive, interactive web application built with **Next.js 14** and **Tailwind CSS** that helps organizations evaluate their digital transformation maturity across five critical dimensions.
 
-![Assessment Welcome Screen](/.gemini/antigravity/brain/84b45041-392a-4ef2-9a5f-f4d3c8c405f8/assessment_welcome_screen_1764242278164.png)
-
 ## 🌟 Features
 
 ### Multi-Step Questionnaire
