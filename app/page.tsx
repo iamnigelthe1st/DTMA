@@ -400,6 +400,9 @@ export default function Home() {
                 Maturity Assessment
               </span>
             </h1>
+            <p className="text-lg text-white/80 font-medium mb-6">
+              Made by Keegan Kinyanjui
+            </p>
             <p className="text-2xl text-white/90 mb-4 font-light">
               Evaluate your organization's digital readiness across 5 key
               dimensions
